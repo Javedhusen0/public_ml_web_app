@@ -1,0 +1,3 @@
+
+
+streamlit run "C:\Users\Dell\OneDrive\Desktop\multiple disease detection\multiple disease detection.py"
