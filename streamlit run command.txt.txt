@@ -1,3 +1,8 @@
+numpy 
+pickle-mixin
+streamlit
+streamlit-option-menu
+scikit-learn
 
 
 streamlit run "C:\Users\Dell\OneDrive\Desktop\multiple disease detection\multiple disease detection.py"
